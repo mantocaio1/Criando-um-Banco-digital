@@ -1,3 +1,5 @@
+package com.BancoDigital.Funcoes;
+import com.BancoDigital.Cliente;
 
 public class ContaCorrente extends Conta {
 

@@ -1,3 +1,4 @@
+package com.BancoDigital.Funcoes;
 
 public interface IConta {
 	

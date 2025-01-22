@@ -1,3 +1,8 @@
+package com.BancoDigital;
+import com.BancoDigital.Funcoes.Conta;
+import com.BancoDigital.Funcoes.ContaCorrente;
+import com.BancoDigital.Funcoes.ContaPoupanca;
+
 public class Main {
 
 	public static void main(String[] args) {

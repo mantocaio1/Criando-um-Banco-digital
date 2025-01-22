@@ -1,3 +1,5 @@
+package com.BancoDigital;
+import com.BancoDigital.Funcoes.Conta;
 import java.util.List;
 
 public class Banco {
